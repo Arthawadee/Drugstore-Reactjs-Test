@@ -11,6 +11,7 @@
 }
 .pageContent{
     text-align: center;
+    padding: 20px 50px;
 }
 .ui.icon.header.pageHeader{
     font-family: THSarabunNewBd;
@@ -19,8 +20,20 @@
 .AddNewPatientForm{
     text-align: left;
     color: #117cba;
-    padding-bottom: 20px;
+    padding: 20px;
     font-family: THSarabunNew;
     font-size: 20px;
-    width: 500px;
+    width: 90%;
+    margin: auto;
 }
+.ui.icon.aligned.header{
+    font-family: THSarabunNewBd;
+    color: #117cba;
+    font-size: 50px;
+    text-align: left;
+}
+/* .head.headName {
+    font-family: THSarabunNewBd;
+    color: red;
+    font-size: 50px !important;
+} */
