@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'THSarabunNew';
+    src: url("fonts/THSarabunNew.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'THSarabunNewBd';
+    src: url("fonts/THSarabunNew Bold.ttf") format("truetype");
+    
+}
+.pageContent{
+    text-align: center;
+}
+.ui.icon.header.pageHeader{
+    font-family: THSarabunNewBd;
+    font-size: 40px;
+}
+.AddNewPatientForm{
+    text-align: left;
+    color: #117cba;
+    padding-bottom: 20px;
+    font-family: THSarabunNew;
+    font-size: 20px;
+    width: 500px;
+}
